@@ -33,4 +33,4 @@ https://github.com/utpal-maiti/AZ-204-DevelopingSolutionsforMicrosoftAzure/tree/
 3. **Control Access**: Use Azure RBAC and Key Vault access policies to grant appropriate permissions to users and applications.
 4. **Monitor and Audit**: Use Azure Monitor and Azure Security Center to track access and usage of your Key Vault resources.
 
-Would you like more detailed guidance on any specific aspect of Azure Key Vault or help with a particular use case?
+
